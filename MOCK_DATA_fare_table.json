@@ -1,0 +1,9 @@
+[{"Fare_id":1,"Fare_amount":"$1.75","Fare_start_zone":1},
+{"Fare_id":2,"Fare_amount":"$2.50","Fare_start_zone":2},
+{"Fare_id":3,"Fare_amount":"$3.25","Fare_start_zone":3},
+{"Fare_id":4,"Fare_amount":"$2.50","Fare_start_zone":1},
+{"Fare_id":5,"Fare_amount":"$3.25","Fare_start_zone":2},
+{"Fare_id":6,"Fare_amount":"$1.75","Fare_start_zone":3},
+{"Fare_id":7,"Fare_amount":"$3.25","Fare_start_zone":1},
+{"Fare_id":8,"Fare_amount":"$1.75","Fare_start_zone":2},
+{"Fare_id":9,"Fare_amount":"$2.50","Fare_start_zone":3}]
